@@ -1,0 +1,16 @@
+# Dependências do Sistema Bancário Ultra Seguro
+# Instalar com: pip install -r requirements.txt
+
+# Criptografia de dados
+cryptography>=41.0.0
+
+# Banco de dados (incluído no Python)
+# sqlite3
+
+# Outras bibliotecas (incluídas no Python)
+# hashlib - para hash SHA-256
+# secrets - para geração de números seguros  
+# getpass - para entrada de senha oculta
+# datetime - para timestamps
+# base64 - para codificação
+# os - para operações de arquivo
