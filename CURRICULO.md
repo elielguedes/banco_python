@@ -16,28 +16,23 @@ Estudante de **Engenharia de Software** (2º semestre) com forte interesse em **
 ## COMPETÊNCIAS TÉCNICAS
 
 ### **LINGUAGENS DE PROGRAMAÇÃO**
-- **Python**: OOP, estruturas de dados, bibliotecas (Flask, Tkinter, cryptography)
+- **Python**: OOP, estruturas de dados, bibliotecas (Flask, FastAPI, Tkinter, cryptography)
 - **C**: Algoritmos, estruturas de dados, programação de sistemas
 - **PHP**: Desenvolvimento web, manipulação de dados
 - **SQL**: Consultas, modelagem de banco de dados
-- **JavaScript**: Desenvolvimento web frontend
+- **JavaScript**: Desenvolvimento web frontend básico
 - **HTML/CSS**: Desenvolvimento de interfaces web
 
 ### **BACKEND DEVELOPMENT**
 - **Python**: Flask, FastAPI, SQLite, APIs REST
-- **PHP**: Desenvolvimento web backend
-- **Database**: SQLite, MySQL, modelagem relacional
-- **APIs**: REST, JSON, integração de sistemas, consultas externas
-
-### **PROJETOS EM C**
-- **Algoritmos**: Implementação de estruturas de dados
-- **Sistemas**: Programação orientada a performance
-- **Lógica**: Resolução de problemas computacionais
+- **PHP**: Desenvolvimento web backend básico
+- **Database**: SQLite, MySQL, modelagem relacional básica
+- **APIs**: REST, JSON, integração de sistemas
 
 ### **FERRAMENTAS E TECNOLOGIAS**
 - **Version Control**: Git, GitHub
-- **Development**: VS Code, ambiente Linux/Windows
-- **Testing**: Testes unitários, debugging
+- **Development**: VS Code, ambiente Windows
+- **Testing**: Testes básicos, debugging
 - **Documentation**: Markdown, documentação técnica
 
 ---
@@ -101,23 +96,27 @@ Tools:       Git, VS Code, Linux/Windows, Documentação API
 - **Sistemas**: Desenvolvimento de aplicações de baixo nível
 
 ### **DESENVOLVIMENTO BACKEND**
-- **Python**: Flask, FastAPI, SQLite, APIs REST, criptografia
-- **PHP**: Desenvolvimento web, manipulação de dados, integração com BD
-- **APIs**: Construção de APIs síncronas e assíncronas
-- **Database**: Modelagem, consultas SQL, otimização
-- **Segurança**: Implementação de autenticação e criptografia
-- **Integração**: Conexão com APIs externas, validação de dados
+- **Python**: Flask, FastAPI, SQLite, APIs REST básicas
+- **PHP**: Desenvolvimento web, manipulação de dados básica
+- **APIs**: Construção de APIs REST simples
+- **Database**: Consultas SQL básicas, modelagem simples
+- **Segurança**: Implementação básica de autenticação
+
+### **PROJETOS EM C**
+- **Algoritmos**: Implementação de estruturas de dados básicas
+- **Sistemas**: Programação de sistemas básica
+- **Lógica**: Resolução de problemas computacionais
 
 ### **RESOLUÇÃO DE PROBLEMAS**
-- **Análise**: Decomposição de problemas complexos
-- **Algoritmos**: Desenvolvimento de soluções eficientes
-- **Testing**: Validação e debugging de código
-- **Documentation**: Documentação clara e técnica
+- **Análise**: Decomposição de problemas
+- **Algoritmos**: Desenvolvimento de soluções básicas
+- **Testing**: Testes básicos e debugging
+- **Documentation**: Documentação simples
 
 ### **PROJETOS DESTACADOS EM C**
-- **Calculadora Estatística**: Cálculos de tempo médio com arrays dinâmicos
-- **Sistema de Semáforos**: Controle inteligente de tráfego com filas e listas
-- **Algoritmos de Otimização**: Redução de tempo de processamento
+- **Calculadora Estatística**: Cálculos de tempo médio com arrays
+- **Sistema de Semáforos**: Controle de tráfego com filas e listas
+- **Algoritmos**: Implementação de estruturas de dados básicas
 
 ## FORMAÇÃO ACADÊMICA
 
@@ -141,18 +140,18 @@ Tools:       Git, VS Code, Linux/Windows, Documentação API
 
 ---
 
-## OBJETIVOS ACADÊMICOS E PROFISSIONAIS
+### **OBJETIVOS ACADÊMICOS E PROFISSIONAIS**
 
 ### **CURTO PRAZO (Acadêmico)**
 - **Aprofundar conhecimentos** em desenvolvimento backend
-- **Desenvolver projetos** mais complexos em C e Python
-- **Aprender novas tecnologias** (Java, frameworks avançados)
-- **Participar** de hackathons e competições de programação
+- **Desenvolver projetos** mais complexos em Python e C
+- **Aprender novas tecnologias** (Java, frameworks)
+- **Participar** de projetos acadêmicos
 
 ### **MÉDIO PRAZO (Carreira)**
 - **Estágio** em desenvolvimento de software
-- **Especialização** em backend/sistemas
-- **Contribuir** para projetos open source
+- **Especialização** em backend
+- **Melhorar skills** em programação
 - **Networking** com profissionais da área
 
 ---
