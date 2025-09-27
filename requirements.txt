@@ -2,7 +2,10 @@
 # Instalar com: pip install -r requirements.txt
 
 # Criptografia de dados
-cryptography>=41.0.0
+cryptography==42.0.5
+flask==3.0.0
+flask-cors==4.0.0
+pyjwt==2.8.0
 
 # Banco de dados (incluído no Python)
 # sqlite3
